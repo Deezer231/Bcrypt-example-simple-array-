@@ -1,1 +1,0 @@
-# Bcrypt-example-simple-array-
